@@ -1,9 +1,9 @@
 # 💫 About Me:
-👨‍💻 Full-stack developer with a strong Django background, currently focused on React & TypeScript
-🤖 Building AI-powered applications using LLMs and modern web technologies
-💡 Passionate about innovative ideas, rapid prototyping, and turning concepts into products
-🤝 Open to collaborating on React, AI, and open-source projects
-🎓 Electrical Engineering student, fascinated by the intersection of hardware, software, and intelligent systems
+👨‍💻 Full-stack developer with a strong Django background, currently focused on React & TypeScript</br>
+🤖 Building AI-powered applications using LLMs and modern web technologies</br>
+💡 Passionate about innovative ideas, rapid prototyping, and turning concepts into products</br>
+🤝 Open to collaborating on React, AI, and open-source projects</br>
+🎓 Electrical Engineering student, fascinated by the intersection of hardware, software, and intelligent systems</br>
 ⚡ Enjoy designing scalable architectures, clean code, and great user experiences
 
 ## 🌐 Socials:
